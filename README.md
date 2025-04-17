@@ -1,2 +1,2 @@
 # Automation_with_Jenkins
-Automated this Web with integration of Jenkins
+Automated this Website with the integration of Jenkins
